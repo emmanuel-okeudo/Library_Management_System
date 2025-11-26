@@ -8,10 +8,8 @@ A Python-based Library Management System that allows users to manage books, memb
 - Technology Stack
 - Installation
 - Usage
-- [Screenshots](#screenshots)
 - Folder Structure
 - Contributing
-- License
 
 
 ## Project Overview
@@ -85,13 +83,6 @@ Follow the on-screen menu to:
 
 ---
 
-## Screenshots
-
-
-![Main Menu](images/main_menu.png)
-![Book Management](images/book_management.png)
-
----
 
 ## Folder Structure
 
@@ -124,16 +115,12 @@ library-management-system/
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Notes
 
-* This system is for educational purposes only.
-* No real user data is used.
+This system is for educational purposes only.
+No real user data is used.
 
 
 
