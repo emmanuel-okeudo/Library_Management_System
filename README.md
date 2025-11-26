@@ -7,10 +7,10 @@ A Python-based Library Management System that allows users to manage books, memb
 - Features
 - Technology Stack
 - Installation
-- [Usage](#usage)
+- Usage
 - [Screenshots](#screenshots)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
+- Folder Structure
+- Contributing
 - License
 
 
@@ -87,9 +87,6 @@ Follow the on-screen menu to:
 
 ## Screenshots
 
-*Add screenshots of the main menu, book management, or issuing books to visually show functionality.*
-
-Example:
 
 ![Main Menu](images/main_menu.png)
 ![Book Management](images/book_management.png)
